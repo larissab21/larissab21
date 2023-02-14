@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larissab21
-- 👀 I’m interested in cybersecurity analyst
+- 👀 I’m interested in cybernetic security
 - 🌱 I’m currently learning analysis and development
 of systems
 - 💞️ I’m looking to collaborate on 
